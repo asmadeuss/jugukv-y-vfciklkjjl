@@ -1,6 +1,5 @@
-# jugukv-y-vfciklkjjl
+# repository
 
-```JavaScript
-alert('asd');
-```
-## First Project Read.me
+## Im js developer. 
+
+
