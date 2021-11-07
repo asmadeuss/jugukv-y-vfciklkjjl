@@ -6,7 +6,7 @@
 
  This is unordered list: 
  
- [submit a new issue](https://github.com/[username]/[repo_name]/issues/new)
+ [github](https://github.com)
  
 
 
