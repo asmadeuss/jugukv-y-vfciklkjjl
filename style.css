@@ -1,0 +1,20 @@
+.body {
+    
+    background: rgb(51,77,83);
+    background: linear-gradient(90deg, rgba(51,77,83,1) 22%, rgba(25,25,65,1) 63%, rgba(2,0,36,1) 100%);
+}
+
+.qwe {
+    justify-content: center;
+    text-align: center;
+}
+
+#img {
+    width: 27%; /* Ширина */
+    float: left; /* Выстраиваем элементы по горизонтали */
+    margin: 0 0 0 3.5%; /* Отступ слева */
+    background: #f0f0f0; /* Цвет фона */
+    border-radius: 5px; /* Радиус скругления */
+    padding: 2%; /* Поля */
+    text-align: center;
+}
